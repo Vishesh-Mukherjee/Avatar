@@ -1,2 +1,2 @@
 # Avatar
- 
+A console based java maven project that aims to simulate registration of a user, creation of a character, and login of a game. The project is structurized using DAO pattern, implemented using collections and tested using JUnit. Function programming is used to increase code readability, flexability, and adaptability and to reduce boiler-plate code. Class diagram is also provided.
